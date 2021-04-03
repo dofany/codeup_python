@@ -1,2 +1,2 @@
 a = int(input())
-print("%x".upper()%a)
+print("%x".upper() %a)
